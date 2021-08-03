@@ -3,7 +3,7 @@
 
 Proyecto Chesspresso-Master
 
-Se creo un paquete principal con 2 clases para darle uso al paquete chesspresso y darle los movimientos al juego definidos.
+Se creo un paquete principal con 2 clases para darle uso al paquete chesspresso y darle los movimientos definidos al juego.
 
 Para su desarrollo se uso:
 
